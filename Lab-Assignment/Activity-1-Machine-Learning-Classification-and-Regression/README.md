@@ -14,29 +14,10 @@ This notebook contains the implementation of Machine Learning Classification and
 ## Platform
 Google Colab
 
-## Assignment Type
-Theory Assignment
 
-## Topics
-- Machine Learning Classification
-- Machine Learning Regression
-- Model Training and Testing
-- Model Evaluation
-
-)
 
 ## Description
 This notebook contains the implementation of Machine Learning Classification and Regression techniques using Python in Google Colab.
 
 ## Platform
 Google Colab
-
-## Assignment Type
-Theory Assignment
-
-## Topics
-- Machine Learning Classification
-- Machine Learning Regression
-- Model Training and Testing
-- Model Evaluation
-
