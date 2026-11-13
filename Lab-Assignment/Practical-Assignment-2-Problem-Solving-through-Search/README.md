@@ -66,9 +66,7 @@ This single README contains the complete material for:
 26. [Genetic Algorithms](#genetic-algorithms)
 27. [Comparison](#search-algorithm-comparison)
 28. [Formulas](#important-formulas)
-29. [Exam Questions](#important-exam-questions)
-30. [Quick Revision](#quick-revision)
-
+   
 ---
 
 # Unit Overview
@@ -1193,58 +1191,6 @@ total population fitness
 
 ---
 
-# Important Exam Questions
-
-## Short Answer
-
-1. What is State Space Search?
-2. Define initial state.
-3. Define goal state.
-4. What are operators?
-5. What is uninformed search?
-6. What is informed search?
-7. Define heuristic function.
-8. What is `g(n)`?
-9. What is `h(n)`?
-10. What is `f(n)`?
-11. Define admissible heuristic.
-12. What is local search?
-13. What is a local minimum?
-14. What is the ridge problem?
-15. What is a fitness function?
-16. What is crossover?
-17. What is mutation?
-18. What is a relaxed problem?
-
-## Long Answer
-
-1. Explain State Space Search with `[S,s,O,G]`.
-2. Explain Tree Search and Graph Search.
-3. Explain BFS with example, algorithm and properties.
-4. Explain UCS with example and properties.
-5. Explain DFS with example and properties.
-6. Explain DLS.
-7. Explain IDDFS.
-8. Explain Bidirectional Search.
-9. Explain Best-First Search.
-10. Explain Greedy Best-First Search.
-11. Explain A* Search.
-12. Explain admissible heuristics.
-13. Explain the 8-Puzzle heuristics.
-14. Explain dominance of heuristics.
-15. Explain relaxed problems.
-16. Explain Local Search.
-17. Explain Hill Climbing with the 8-Queens example.
-18. Explain local minima and hill-climbing difficulties.
-19. Explain the Ridge Problem.
-20. Explain Simulated Annealing.
-21. Explain Local Beam Search.
-22. Explain Genetic Algorithms.
-23. Compare all major search algorithms.
-
----
-
-# Quick Revision
 
 ## Uninformed Search
 
@@ -1598,10 +1544,5 @@ Population → Fitness → Selection
 
 ---
 
-## Repository Purpose
 
-- Quick revision
-- Concept understanding
-- Algorithm comparison
-- Formula revision
 
