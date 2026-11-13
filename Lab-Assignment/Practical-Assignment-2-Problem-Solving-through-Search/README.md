@@ -31,8 +31,6 @@ This single README contains the complete material for:
 - Genetic Algorithms
 - Important formulas
 - Algorithm comparisons
-- Exam questions
-- Quick revision
 
 ---
 
